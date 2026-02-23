@@ -63,4 +63,4 @@ Random Forest Classifier achieved the highest accuracy among tested models.
 ---
 
 ## 👨‍💻 Author
-Your Name
+Thrisanth K M  
